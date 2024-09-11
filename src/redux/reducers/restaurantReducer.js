@@ -1,4 +1,4 @@
-
+import ActionTypes from "./actionTypes";
 const initialState = {
     restaurants: [],
     isLoading: false,
@@ -9,18 +9,30 @@ const initialState = {
 const restaurantReducer = (state = initialState, action) => {
     switch (action.type) {
 
-        case "X AKSİYONU":
-            return state;
+        case ActionTypes.REST_LOADING:
+            return {
+                ...state,
+                isLoading: true
+            };
 
-        case "Y AKSİyoNU":
-            return state;
+        case ActionTypes.REST_SUCCESS:
+            return {
+                ...state,
+                isLoading: false,
+                error: null,
+                restaurants: action.payload
+            };
 
-        case "Z AKSİYONU":
-            return state;
+        case ActionTypes.REST_ERROR:
+            return {
+                ...state,
+                error: action.payload,
+                isLoading: false
+            };
 
         default:
             return state;
 
     }
 };
-export default restaurantReducer
+export default restaurantReducer;
