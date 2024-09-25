@@ -8,7 +8,7 @@ import { getRestaurants } from "../redux/actions/restaurantActions";
 import Container from "../components/Container";
 const Main = () => {
   //store abone ol
-  const { isLoading, error, restaurants } = useSelector(
+  const { isLoading, error, restaurants, retry } = useSelector(
     (store) => store.restaurants,
   );
 
@@ -42,15 +42,17 @@ const Main = () => {
     <Container>
       <h1 className="text-3xl">Tüm Restorantlar</h1>
 
-      <div className="grid gap-5 mt-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4">
-        {isLoading ? (
-          <Loader />
-        ) : error ? (
-          <Error message={error} retry={() => dispatch(getRestaurants())} />
-        ) : (
-          restaurants.map((rest) => <RestCard key={rest.id} data={rest} />)
-        )}
-      </div>
+      {isLoading ? (
+        <Loader />
+      ) : error ? (
+        <Error message={error} retry={() => dispatch(getRestaurants())} />
+      ) : (
+        <div className="grid gap-5 mt-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4">
+          {restaurants.map((rest) => (
+            <RestCard key={rest.id} data={rest} />
+          ))}
+        </div>
+      )}
     </Container>
   );
 };

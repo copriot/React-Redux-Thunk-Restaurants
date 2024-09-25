@@ -3,6 +3,7 @@ const initialState = {
     products: [],
     isLoading: false,
     error: null,
+    restaurant: null,
 }
 
 

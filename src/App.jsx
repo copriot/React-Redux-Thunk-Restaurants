@@ -9,7 +9,7 @@ const App = () => {
       <Header />
       <Routes>
         <Route path="/" element={<Main />}></Route>
-        <Route path="/restaurant/:rest-id" element={<Restaurant />}></Route>
+        <Route path="/restaurant/:id" element={<Restaurant />}></Route>
       </Routes>
     </BrowserRouter>
   );
