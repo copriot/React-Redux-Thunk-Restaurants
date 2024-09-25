@@ -5,7 +5,7 @@
       "name": "Lezzetin Tadı",
       "minPrice": 50,
       "estimatedDelivery": 45,
-      "photo": "https://picsum.photos/400",
+      "photo": "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "rating": 4.7,
       "isDeliveryFree": true
     },
@@ -14,7 +14,7 @@
       "name": "Aromalı Ev",
       "minPrice": 40,
       "estimatedDelivery": 35,
-      "photo": "https://picsum.photos/401",
+      "photo": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "rating": 4.5,
       "isDeliveryFree": false
     },
@@ -23,7 +23,7 @@
       "name": "Lezzet Köşesi",
       "minPrice": 60,
       "estimatedDelivery": 50,
-      "photo": "https://picsum.photos/402",
+      "photo": "https://images.unsplash.com/photo-1525610553991-2bede1a236e2?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fHJlc3RhdXJhbnQlMjBidWlsZHxlbnwwfHwwfHx8Mg%3D%3D",
       "rating": 4.8,
       "isDeliveryFree": true
     },
@@ -32,7 +32,7 @@
       "name": "Keyifli Mekan",
       "minPrice": 45,
       "estimatedDelivery": 40,
-      "photo": "https://picsum.photos/403",
+      "photo": "https://images.unsplash.com/photo-1517740642137-bc729c123aa5?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fHJlc3RhdXJhbnQlMjBidWlsZHxlbnwwfHwwfHx8Mg%3D%3D",
       "rating": 4.6,
       "isDeliveryFree": true
     },
@@ -41,7 +41,7 @@
       "name": "Tadı Damağınızda",
       "minPrice": 55,
       "estimatedDelivery": 55,
-      "photo": "https://picsum.photos/404",
+      "photo": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc3RhdXJhbnQlMjBidWlsZHxlbnwwfHwwfHx8Mg%3D%3D",
       "rating": 4.9,
       "isDeliveryFree": false
     },
@@ -50,7 +50,7 @@
       "name": "Lezzet Pınarı",
       "minPrice": 55,
       "estimatedDelivery": 40,
-      "photo": "https://picsum.photos/405",
+      "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fHJlc3RhdXJhbnQlMjBidWlsZHxlbnwwfHwwfHx8Mg%3D%3D",
       "rating": 4.4,
       "isDeliveryFree": false
     },
@@ -59,7 +59,7 @@
       "name": "Sağlıklı İstasyon",
       "minPrice": 60,
       "estimatedDelivery": 50,
-      "photo": "https://picsum.photos/406",
+      "photo": "https://images.unsplash.com/photo-1528119376-83edc3310233?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "rating": 4.6,
       "isDeliveryFree": true
     },
@@ -68,7 +68,7 @@
       "name": "Baharatlı Lezzetler",
       "minPrice": 50,
       "estimatedDelivery": 45,
-      "photo": "https://picsum.photos/407",
+      "photo": "https://images.unsplash.com/photo-1536523218403-e72792eb06a1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fHJlc3RhdXJhbnQlMjBidWlsZHxlbnwwfHwwfHx8Mg%3D%3D",
       "rating": 4.7,
       "isDeliveryFree": true
     }
@@ -81,7 +81,7 @@
       "category": "Deniz Ürünleri",
       "price": 45.99,
       "rating": 4.8,
-      "photo": "https://picsum.photos/200",
+      "photo": "https://images.unsplash.com/photo-1633524792906-73b111908d9c?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "1"
     },
     {
@@ -91,7 +91,7 @@
       "category": "Pizza",
       "price": 12.99,
       "rating": 4.5,
-      "photo": "https://picsum.photos/201",
+      "photo": "https://images.unsplash.com/photo-1669895616443-5d21d5acc6e0?q=80&w=2525&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "2"
     },
     {
@@ -101,7 +101,7 @@
       "category": "Kebaplar",
       "price": 17.99,
       "rating": 4.7,
-      "photo": "https://picsum.photos/203",
+      "photo": "https://images.unsplash.com/photo-1717250180256-2cedbc62180d?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "1"
     },
     {
@@ -111,7 +111,7 @@
       "category": "Tatlılar",
       "price": 8.99,
       "rating": 4.9,
-      "photo": "https://picsum.photos/203",
+      "photo": "https://images.unsplash.com/photo-1675062521318-aa0797eae2b4?q=80&w=2535&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "3"
     },
     {
@@ -121,27 +121,27 @@
       "category": "Makarnalar",
       "price": 10.99,
       "rating": 4.6,
-      "photo": "https://picsum.photos/204",
+      "photo": "https://images.unsplash.com/photo-1522784081430-8ac6a122cbc8?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "4"
     },
     {
       "id": "6",
-      "title": "Güveçte Et Sote",
+      "title": "Et Döner",
       "desc": "Taze sebzeler ve baharatlarla harmanlanmış dana eti, güveçte pişirilir.",
       "category": "Et Yemekleri",
       "price": 22.99,
       "rating": 4.4,
-      "photo": "https://picsum.photos/205",
+      "photo": "https://images.unsplash.com/photo-1699728088614-7d1d4277414b?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "5"
     },
     {
       "id": "7",
-      "title": "Fırın Tavuk But",
+      "title": "Soğuk Sandviç",
       "desc": "Baharatlarla marine edilmiş tavuk butları, fırında kızartılarak servis edilir.",
       "category": "Tavuk Yemekleri",
       "price": 14.99,
       "rating": 4.7,
-      "photo": "https://picsum.photos/206",
+      "photo": "https://images.unsplash.com/photo-1649402164199-b18f0aa85db5?q=80&w=2371&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "7"
     },
     {
@@ -151,7 +151,7 @@
       "category": "Asya Mutfağı",
       "price": 11.99,
       "rating": 4.6,
-      "photo": "https://picsum.photos/207",
+      "photo": "https://images.unsplash.com/photo-1653666322609-df808a84bc0e?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "8"
     },
     {
@@ -161,7 +161,7 @@
       "category": "Salatalar",
       "price": 8.49,
       "rating": 4.3,
-      "photo": "https://picsum.photos/208",
+      "photo": "https://images.unsplash.com/photo-1570197571499-166b36435e9f?q=80&w=1906&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "3"
     },
     {
@@ -171,7 +171,7 @@
       "category": "Hint Mutfağı",
       "price": 16.99,
       "rating": 4.8,
-      "photo": "https://picsum.photos/209",
+      "photo": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=2513&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "5"
     },
     {
@@ -181,7 +181,7 @@
       "category": "Salatalar",
       "price": 7.99,
       "rating": 4.5,
-      "photo": "https://picsum.photos/210",
+      "photo": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "4"
     },
     {
@@ -191,7 +191,7 @@
       "category": "Atıştırmalıklar",
       "price": 9.99,
       "rating": 4.4,
-      "photo": "https://picsum.photos/211",
+      "photo": "https://images.unsplash.com/photo-1517984055083-fd6e1e788e54?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "2"
     },
     {
@@ -201,7 +201,7 @@
       "category": "Pizza",
       "price": 12.99,
       "rating": 4.5,
-      "photo": "https://picsum.photos/211",
+      "photo": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=2581&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "2"
     },
     {
@@ -211,7 +211,7 @@
       "category": "Kebaplar",
       "price": 17.99,
       "rating": 4.7,
-      "photo": "https://picsum.photos/212",
+      "photo": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "3"
     },
     {
@@ -221,7 +221,7 @@
       "category": "Tatlılar",
       "price": 8.99,
       "rating": 4.9,
-      "photo": "https://picsum.photos/213",
+      "photo": "https://images.unsplash.com/photo-1612078960206-1709f1f0c969?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "4"
     },
     {
@@ -231,17 +231,17 @@
       "category": "Makarnalar",
       "price": 10.99,
       "rating": 4.6,
-      "photo": "https://picsum.photos/214",
+      "photo": "https://images.unsplash.com/photo-1586197132548-e2e19edf9f89?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "5"
     },
     {
       "id": "76",
-      "title": "Güveçte Et Sote",
+      "title": "Antrikot",
       "desc": "Taze sebzeler ve baharatlarla harmanlanmış dana eti, güveçte pişirilir.",
       "category": "Et Yemekleri",
       "price": 22.99,
       "rating": 4.4,
-      "photo": "https://picsum.photos/215",
+      "photo": "https://images.unsplash.com/photo-1720701247839-9b8433398385?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "6"
     },
     {
@@ -251,7 +251,7 @@
       "category": "Tavuk Yemekleri",
       "price": 14.99,
       "rating": 4.7,
-      "photo": "https://picsum.photos/216",
+      "photo": "https://images.unsplash.com/photo-1602534956586-2f4997a5a8ef?q=80&w=2612&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "7"
     },
     {
@@ -261,7 +261,7 @@
       "category": "Asya Mutfağı",
       "price": 11.99,
       "rating": 4.6,
-      "photo": "https://picsum.photos/217",
+      "photo": "https://images.unsplash.com/photo-1498601761256-9e93c6f5c181?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bm9vZGxlJTIwd2l0aCUyMHNhbGFkfGVufDB8fDB8fHwy",
       "restaurantId": "8"
     },
     {
@@ -271,7 +271,7 @@
       "category": "Salatalar",
       "price": 8.49,
       "rating": 4.3,
-      "photo": "https://picsum.photos/210",
+      "photo": "https://images.unsplash.com/photo-1608032077018-c9aad9565d29?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "5"
     },
     {
@@ -281,7 +281,7 @@
       "category": "Hint Mutfağı",
       "price": 16.99,
       "rating": 4.8,
-      "photo": "https://picsum.photos/211",
+      "photo": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNoaWNrZW4lMjBjdXJyeXxlbnwwfHwwfHx8Mg%3D%3D",
       "restaurantId": "4"
     },
     {
@@ -291,7 +291,7 @@
       "category": "Salatalar",
       "price": 7.99,
       "rating": 4.5,
-      "photo": "https://picsum.photos/212",
+      "photo": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=2568&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantId": "2"
     }
   ],

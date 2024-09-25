@@ -1,6 +1,8 @@
-import { combineReducers, createStore } from "redux";
+import { combineReducers, createStore, applyMiddleware } from "redux";
 import restaurantReducer from './reducers/restaurantReducer'
 import productReducer from "./reducers/productReducer";
+import { thunk } from "redux-thunk";
+
 
 const rootReducer = combineReducers({
     restaurants: restaurantReducer,
@@ -9,12 +11,8 @@ const rootReducer = combineReducers({
 
 
 
-// import ederken istedigimiz ismi veriyoz zaten ne gerek var store diye degiskene atmaya
 
-
-
-
-const store = createStore(rootReducer);
+const store = createStore(rootReducer, applyMiddleware(thunk));
 
 export default store;
 
