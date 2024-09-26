@@ -7,8 +7,8 @@ const Header = () => {
     <header className="shadow">
       <Container>
         <div className="flex justify-between align items-center">
-          <Link to={"/"} className="text-cyan-700 font-mono font-[900]">
-            THUNK BASKET
+          <Link to={"/"} className="text-orange-600 font-mono font-[900]">
+            ⭐️ThunkSepeti⭐️
           </Link>
 
           <div className="flex items-center gap-4">
