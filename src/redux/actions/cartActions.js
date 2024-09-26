@@ -1,3 +1,4 @@
+import { toast } from "react-toastify";
 import api from "../../utils/api"
 import Actions from "../reducers/actionTypes"
 import { v4 } from 'uuid';
@@ -36,9 +37,32 @@ export const addToBasket = (product, restName) => (dispatch) => {
     };
     //b) elemanı api'a ekle
     api.post('/cart', newItem)
+        //c)apidan olumlu cevap gelirse  reducer'a haber ver ve bildirim gönder
+        .then(() => {
+            dispatch({ type: Actions.ADD_ITEM, payload: newItem })
+            toast.success(`${newItem.title} sepete eklendi`)
 
-    //c)basarili olursa reducer'a haber ver ve bildirim gönder
-    dispatch({ type: Actions.ADD_ITEM, payload: newItem })
-    alert('eleman sepete eklendi')
-    //d) basarisiz olursa bildirim gönder
+        })
+        //d) apidan hata gelirse bildirim gönder
+        .catch(() => toast.error('Üzgünüz bir sorun olustu'))
+
+
+}
+
+
+//3) Sepetteki elemanı güncelle (Miktar arttır ve azalt)
+export const updateItem = (id, newAmount) => (dispatch) => {
+    //a)apideki veriyi güncelle
+    api.patch(`/cart/${id}`, { amount: newAmount })
+
+
+        //b) istek basarisiz olursa reduer ' a haber ver
+        .then((res) => {
+            dispatch({ type: Actions.UPDATE_ITEM, payload: res.data });
+            toast.info(`Ürün miktarı = ${newAmount}`);
+        })
+
+
+        //c)istek basarisiz olursa bildirim gönder
+        .catch((error) => toast.error('Üzgünüz bir hata oluştu'))
 }

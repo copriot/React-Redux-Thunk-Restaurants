@@ -303,7 +303,7 @@
       "price": 45.99,
       "photo": "https://picsum.photos/200",
       "restaurantName": "Lezzetin Tadı",
-      "amount": 1
+      "amount": 2
     },
     {
       "id": "8832d947-e8c8-446a-ad0d-ade055164e49",
@@ -313,51 +313,6 @@
       "photo": "https://picsum.photos/301",
       "restaurantName": "Lezzetin Tadı",
       "amount": 2
-    },
-    {
-      "id": "de4ed3b8-af32-4931-b594-a92bccbd9a4f",
-      "productId": "4",
-      "title": "Çikolatalı Brownie",
-      "price": 8.99,
-      "photo": "https://images.unsplash.com/photo-1675062521318-aa0797eae2b4?q=80&w=2535&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "restaurantName": "Lezzet Köşesi",
-      "amount": 1
-    },
-    {
-      "id": "6e846a2c-86fe-4c05-9c61-9dc42d418443",
-      "productId": "29",
-      "title": "İtalyan Salata",
-      "price": 8.49,
-      "photo": "https://images.unsplash.com/photo-1608032077018-c9aad9565d29?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "restaurantName": "Tadı Damağınızda",
-      "amount": 1
-    },
-    {
-      "id": "cebb6761-1711-46c4-870d-41e16e284f67",
-      "productId": "53",
-      "title": "Tavuk Kebabı",
-      "price": 17.99,
-      "photo": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "restaurantName": "Lezzet Köşesi",
-      "amount": 1
-    },
-    {
-      "id": "b2d43ed6-ae27-4e3f-bbaa-b306694360b4",
-      "productId": "9",
-      "title": "İtalyan Salata",
-      "price": 8.49,
-      "photo": "https://images.unsplash.com/photo-1570197571499-166b36435e9f?q=80&w=1906&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "restaurantName": "Lezzet Köşesi",
-      "amount": 1
-    },
-    {
-      "id": "a2c522b3-3b30-4d55-8b66-e513afcc775c",
-      "productId": "35",
-      "title": "Fırın Makarna",
-      "price": 10.99,
-      "photo": "https://images.unsplash.com/photo-1586197132548-e2e19edf9f89?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "restaurantName": "Tadı Damağınızda",
-      "amount": 1
     }
   ]
 }

@@ -23,6 +23,10 @@ const cartReducer = (state = initialState, action) => {
 
             const updatedCart = state.cart.concat(action.payload)
             return { ...state, cart: updatedCart }
+
+        case Actions.UPDATE_ITEM:
+            const updatedArr = state.cart.map((i) => i.id === action.payload.id ? action.payload : i)
+            return { ...state, cart: updatedArr }
         default:
             return state;
     }
