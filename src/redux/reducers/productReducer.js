@@ -1,3 +1,4 @@
+import Actions from '../reducers/actionTypes'
 
 const initialState = {
     products: [],
@@ -10,14 +11,21 @@ const initialState = {
 const productReducer = (state = initialState, action) => {
     switch (action.type) {
 
-        case "X AKSİYONU":
-            return state;
+        case Actions.PROD_LOADING:
+            return { ...state, isLoading: true };
 
-        case "Y AKSİyoNU":
-            return state;
+        case Actions.PROD_ERROR:
+            return { ...state, isLoading: false, error: action.payload };
 
-        case "Z AKSİYONU":
-            return state;
+        case Actions.PROD_SUCCESS:
+            //    console.log(action)
+            return {
+                ...state,
+                isLoading: false,
+                error: null,
+                restaurant: action.payload[0].data,
+                products: action.payload[1].data
+            };
 
         default:
             return state;

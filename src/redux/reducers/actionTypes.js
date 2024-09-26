@@ -2,5 +2,8 @@ const ActionTypes = {
     REST_LOADING: 'REST_LOADING',
     REST_SUCCESS: 'REST_SUCCESS',
     REST_ERROR: 'REST_ERROR',
+    PROD_LOADING: 'PROD_LOADING',
+    PROD_ERROR: 'PROD_ERROR',
+    PROD_SUCCESS: 'PROD_SUCCESS',
 };
 export default ActionTypes;
