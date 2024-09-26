@@ -10,3 +10,5 @@
 - redux: 5.0.1,
 - redux-thunk: 3.1.0,
 - tailwindcss: 3.4.11,
+- react-toastify: 10.0.5
+- uuid: 10.0.0
