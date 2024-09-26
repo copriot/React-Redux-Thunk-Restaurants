@@ -297,22 +297,22 @@
   ],
   "cart": [
     {
-      "id": "f7815011-3087-42e3-b2cc-24547c52aac5",
-      "productId": "1",
-      "title": "Izgara Somon",
-      "price": 45.99,
-      "photo": "https://picsum.photos/200",
-      "restaurantName": "Lezzetin Tadı",
+      "id": "c34e3951-3450-4035-9abb-3c69f7b06852",
+      "productId": "4",
+      "title": "Çikolatalı Brownie",
+      "price": 8.99,
+      "photo": "https://images.unsplash.com/photo-1675062521318-aa0797eae2b4?q=80&w=2535&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "restaurantName": "Lezzet Köşesi",
       "amount": 2
     },
     {
-      "id": "8832d947-e8c8-446a-ad0d-ade055164e49",
+      "id": "d3c194b9-3069-4bcb-91f9-6a07cd99b3aa",
       "productId": "1",
       "title": "Izgara Somon",
       "price": 45.99,
-      "photo": "https://picsum.photos/301",
+      "photo": "https://images.unsplash.com/photo-1633524792906-73b111908d9c?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "restaurantName": "Lezzetin Tadı",
-      "amount": 2
+      "amount": 1
     }
   ]
 }

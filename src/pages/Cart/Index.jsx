@@ -7,7 +7,7 @@ import CartItem from "./CartItem";
 
 const Cart = () => {
   const { isLoading, error, cart } = useSelector((store) => store.cart);
-  console.log(cart);
+
   return (
     <Container>
       <h1 className="text-xl font-bold text-orange-500">SEPET</h1>

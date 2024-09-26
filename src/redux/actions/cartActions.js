@@ -66,3 +66,17 @@ export const updateItem = (id, newAmount) => (dispatch) => {
         //c)istek basarisiz olursa bildirim gönder
         .catch((error) => toast.error('Üzgünüz bir hata oluştu'))
 }
+
+
+//4)Sepetteki elemanı sepetten kaldır
+
+export const deleteItem = (id) => (dispatch) => {
+    api
+        .delete(`/cart/${id}`)
+        .then(() => {
+            dispatch({ type: Actions.DELETE_ITEM, payload: id })
+            toast.warning('Ürün sepetten kaldırıldı')
+        })
+        .catch(() => toast.error('Üzgünüz bir hata oluştu'))
+
+}

@@ -27,6 +27,12 @@ const cartReducer = (state = initialState, action) => {
         case Actions.UPDATE_ITEM:
             const updatedArr = state.cart.map((i) => i.id === action.payload.id ? action.payload : i)
             return { ...state, cart: updatedArr }
+
+
+        //idsi bilinen elemanı diziden kaldır
+        case Actions.DELETE_ITEM:
+            const filtred = state.cart.filter((i) => i.id !== action.payload)
+            return { ...state, cart: filtred }
         default:
             return state;
     }
