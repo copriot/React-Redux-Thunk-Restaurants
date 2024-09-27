@@ -12,3 +12,7 @@
 - tailwindcss: 3.4.11,
 - react-toastify: 10.0.5
 - uuid: 10.0.0
+
+<h1>Project GIF</h1>
+
+![](ThunkSepeti.gif)

@@ -297,22 +297,49 @@
   ],
   "cart": [
     {
-      "id": "c34e3951-3450-4035-9abb-3c69f7b06852",
-      "productId": "4",
-      "title": "Çikolatalı Brownie",
-      "price": 8.99,
-      "photo": "https://images.unsplash.com/photo-1675062521318-aa0797eae2b4?q=80&w=2535&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "restaurantName": "Lezzet Köşesi",
+      "id": "8ca7f4e9-5ffc-422c-a99c-0e0f29fcfd22",
+      "productId": "3",
+      "title": "Tavuk Kebabı",
+      "price": 17.99,
+      "photo": "https://images.unsplash.com/photo-1717250180256-2cedbc62180d?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "restaurantName": "Lezzetin Tadı",
       "amount": 2
     },
     {
-      "id": "d3c194b9-3069-4bcb-91f9-6a07cd99b3aa",
-      "productId": "1",
-      "title": "Izgara Somon",
-      "price": 45.99,
-      "photo": "https://images.unsplash.com/photo-1633524792906-73b111908d9c?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "restaurantName": "Lezzetin Tadı",
+      "id": "eb9e4b6a-3dc2-4590-b4ab-d5dc0b163522",
+      "productId": "7",
+      "title": "Soğuk Sandviç",
+      "price": 14.99,
+      "photo": "https://images.unsplash.com/photo-1649402164199-b18f0aa85db5?q=80&w=2371&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "restaurantName": "Sağlıklı İstasyon",
+      "amount": 4
+    },
+    {
+      "id": "ab5c481c-97f7-4c2a-8883-2632a059b704",
+      "productId": "76",
+      "title": "Antrikot",
+      "price": 22.99,
+      "photo": "https://images.unsplash.com/photo-1720701247839-9b8433398385?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "restaurantName": "Lezzet Pınarı",
+      "amount": 2
+    },
+    {
+      "id": "fd4830d2-df18-47da-9a3a-346867a591be",
+      "productId": "35",
+      "title": "Fırın Makarna",
+      "price": 10.99,
+      "photo": "https://images.unsplash.com/photo-1586197132548-e2e19edf9f89?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "restaurantName": "Tadı Damağınızda",
       "amount": 1
+    },
+    {
+      "id": "2495273b-18db-4bdc-8d2f-a17e76add8bd",
+      "productId": "10",
+      "title": "Köri Tavuk",
+      "price": 16.99,
+      "photo": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=2513&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "restaurantName": "Tadı Damağınızda",
+      "amount": 2
     }
   ]
 }
